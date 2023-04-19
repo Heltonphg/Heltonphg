@@ -6,6 +6,8 @@ I'm a software engineer. I currently work as a Mobile Developer at [**BASE**](ht
 📲 Front-end Mobile with React Native  
 🌎 Front-end Web with Reactjs  
 🛠️ Typescript  
+🧪 Tests  
+📙 Clean Code  
 🧰 And more...  
 
 #### 💬 Find me elsewhere
