@@ -1,6 +1,6 @@
 ### Hi, I'm Helton Wylammi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I'm a software engineer. I currently work as a Mobile Developer at [**BASE**](https://base.digital/). 
+I'm a software engineer.
 🖤
 #### My current tools 
 📲 Front-end Mobile with React Native  
